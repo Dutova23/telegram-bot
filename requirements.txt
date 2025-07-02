@@ -2,3 +2,4 @@ aiogram==3.0.0
 asyncpg==0.27.0
 flask
 requests
+pydantic==1.10.12
